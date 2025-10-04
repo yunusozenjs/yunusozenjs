@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Yunus</h1>
-<h2 align="center">Yeniliklere açık bir Front-End & Back-End geliştiricisi</h2>
-<h1 align="center">💻 Hakkımda</h1> 
+<h3 align="center">Yeniliklere açık bir Front-End & Back-End geliştiricisi</h3>
+<h2 align="center">💻 Hakkımda</h2> 
 <p align="left">Merhaba! Ben yazılım dünyasına yeni adım atmış bir geliştiriciyim.
 Kendimi sürekli geliştirmeye, yeni teknolojiler öğrenmeye ve projeler üreterek deneyim kazanmaya büyük bir istek duyuyorum.
 Şu anda ağırlıklı olarak JavaScript, HTML, CSS ve Bootstrap ile projeler geliştiriyorum. Hedefim, her geçen gün daha temiz ve etkili kod yazarak profesyonel bir yazılımcı olmak.
